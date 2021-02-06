@@ -2,7 +2,10 @@
 This is a sample image loading and listing project.
 Language: Kotlin
 
-Used Resources: 
+# Archetecture
+• MVVM
+
+# Used Resources: 
 • Coroutines
 • Glide
 • Viewpager
